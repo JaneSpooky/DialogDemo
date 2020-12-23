@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DialogDemo</string>
+    <string name="text_list_label">文字の選択</string>
+    <string name="image_list_label">画像の選択</string>
+    <string name="hint">牌を選択してください</string>
+    <string name="select_action_dialog_title">アクションを選択してください</string>
+    <string name="select_image_dialog_title">牌を選択してください</string>
+    <string name="cancel">キャンセル</string>
+    <string name="close">閉じる</string>
+
+    <string name="manzu">萬子</string>
+    <string name="souzu">索子</string>
+    <string name="pinzu">筒子</string>
+    <string name="jihai">字牌</string>
+
+    <string name="action_0">切る</string>
+    <string name="action_1">ダマテン</string>
+    <string name="action_2">リーチ</string>
+    <string name="action_3">ポン</string>
+    <string name="action_4">チー</string>
+    <string name="action_5">暗槓</string>
+    <string name="action_6">明槓</string>
+</resources>
